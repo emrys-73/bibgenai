@@ -15,8 +15,8 @@
 
 <nav class="list-nav p-4 min-h-screen">
 	<ul>
-		<li><a href="/" on:click={drawerClose}>Home</a></li>
-        <li><a href="/bvg" on:click={drawerClose}>Verse Generator </a></li>
+		
+        <li><a href="/" on:click={drawerClose}>Verse Generator </a></li>
 
         <!-- {#if !logged}
             <li><a href="/login" on:click={drawerClose}>Log In</a></li>
